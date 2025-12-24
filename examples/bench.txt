@@ -1,6 +1,6 @@
 
 
-10w tokenizer
+10w messages tokenize
 
 type    | worker | batch_size | save_freq | speed
 thread  | 10     | 1          | 10000     | 1900-2000/s
